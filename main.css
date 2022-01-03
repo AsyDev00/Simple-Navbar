@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: sans-serif;
+  background-color: rgb(73, 73, 73);
+}
+
+.navbar-main {
+  background-color: rgb(39, 39, 39);
+  padding: 20px;
+}
+
+.navbar-main a {
+  padding: 15px;
+  border-radius: 5px;
+  text-decoration: none;
+  color: rgb(219, 219, 219);
+  transition: .7s;
+}
+
+.navbar-main a:hover {
+    background-color: rgb(27, 124, 204);
+}
+
+.nav-heading {
+  color: #ffff;
+  float: right;
+  padding: 10px;
+  margin-right: 20px;
+}
+
+.home-class {
+  background-color: rgb(27, 124, 204);
+}
